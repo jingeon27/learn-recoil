@@ -2,7 +2,7 @@
 
 ## RecoilRoot
 
-RecoilROot안에서 recoil 상태를 나타낸다.
+RecoilRot안에서 recoil 상태를 나타낸다.
 
 ## Atom
 
