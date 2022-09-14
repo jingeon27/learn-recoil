@@ -15,7 +15,9 @@ Selector는 대충 atom에서 파생된 상태의 일부를 수정할 수 있다
 
 ## 예시
 ```  
+//useRecoilState
   const setShowBoard = useSetRecoilState(showBoardText);
+//useRecoilValue
   const showContent = useRecoilValue(boardContent);
   const showTitle = useRecoilValue(boardTitle);
   ```
