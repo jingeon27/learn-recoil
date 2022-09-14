@@ -14,7 +14,7 @@ Atom은 상태의 일부를 나타낸다. Atom은 어떤 컴포넌트에서나 �
 Selector는 대충 atom에서 파생된 상태의 일부를 수정할 수 있다. useRecoilValue()로 값을 읽는다.
 
 ## 예시
-```  
+```js  
 //useRecoilState
   const setShowBoard = useSetRecoilState(showBoardText);
 //useRecoilValue
